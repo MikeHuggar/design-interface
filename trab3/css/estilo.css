@@ -123,9 +123,15 @@ header {
     #color {
         justify-self: center;
     }
+    #img-panel {
+        width: 95vw;
+        height: auto;
+        margin: auto;
+    }
 }
 
 #panel{
+    display: grid;
     justify-content: center;
 }
 
